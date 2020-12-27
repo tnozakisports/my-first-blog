@@ -25,7 +25,7 @@ SECRET_KEY = 'hpu5_qmxbak-)-0@^3sua$6=nfivfd+t+^!a&^21g-v%y352)p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','pythonanywhere.com','appmaster.pythonanywhere.com']
 
 
 # Application definition
